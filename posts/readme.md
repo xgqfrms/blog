@@ -1,1 +1,1 @@
-# post of aritcle
+# post of articles
