@@ -1,0 +1,17 @@
+{
+  "name": "vue-press",
+  "version": "1.0.0",
+  "description": "vue press static spa blogs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue"
+  ],
+  "author": "xgqfrms",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.0"
+  }
+}
