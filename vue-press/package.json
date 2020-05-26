@@ -4,7 +4,15 @@
   "description": "vue press static spa blogs",
   "main": "index.js",
   "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build .",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "dev": "./dev",
+    "app": "./build"
   },
   "keywords": [
     "vue"

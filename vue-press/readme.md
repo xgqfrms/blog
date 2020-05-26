@@ -27,10 +27,12 @@ vuepress build .
 ```sh
 
 # 将 VuePress 作为一个本地依赖安装
-yarn add -D vuepress # 或者：npm install -D vuepress
+$ yarn add -D vuepress
+# 或
+$ npm install -D vuepress
 
 # 新建一个 docs 文件夹
-mkdir docs
+$ $ mkdir docs
 
 # 新建一个 markdown 文件
 echo '# Hello VuePress!' > docs/README.md
@@ -43,5 +45,12 @@ $ npx vuepress dev docs
 ```sh
 
 $ npx vuepress dev .
+
+```
+
+```sh
+$ yarn docs:build
+# 或
+$ npm run docs:build
 
 ```
