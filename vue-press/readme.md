@@ -32,7 +32,7 @@ $ yarn add -D vuepress
 $ npm install -D vuepress
 
 # 新建一个 docs 文件夹
-$ $ mkdir docs
+$ mkdir docs
 
 # 新建一个 markdown 文件
 echo '# Hello VuePress!' > docs/README.md
@@ -61,3 +61,5 @@ https://blog.xgqfrms.xyz/app
 ## CI
 
 https://docs.travis-ci.com/user/deployment/pages/
+
+https://vuepress.vuejs.org/zh/guide/deploy.html#github-pages
