@@ -54,5 +54,10 @@ $ yarn docs:build
 $ npm run docs:build
 
 ```
+## blogs
 
 https://blog.xgqfrms.xyz/app
+
+## CI
+
+https://docs.travis-ci.com/user/deployment/pages/
