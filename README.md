@@ -1,5 +1,8 @@
 # blog
 
+https://blog.xgqfrms.xyz/app
+
+
 ## update to hexo blog : 
 
 https://blog.xgqfrms.xyz/  
